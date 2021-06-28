@@ -1,0 +1,17 @@
+/*
+Theme Name: acs
+Theme URI: https://adamb.promo-68.codeur.online/
+Author: the WordPress team
+Author URI: https://wordpress.org/
+Description: un theme developpé dans le cadre le l'ACS.
+Version: 0.1 */
+
+.custom-logo{
+    height: 120px !important;
+    width: 120px  !important;
+}
+.attachment-post-thumbnail.size-post-thumbnail.wp-post-image {
+width: 240px;
+height: auto;
+
+}

@@ -1,0 +1,79 @@
+.dotted-border {
+    border: 1px dotted red;
+}
+
+.presentation h1 { 
+    padding-left: 100px;
+    white-space: nowrap;
+}
+
+.presentation p {
+    padding-left: 100px; 
+    font-size: 20px;
+}
+
+.text-center-col-h3 {
+    margin: 30px;
+}
+
+.text-center-col-p {
+    margin-top: 200px;
+}
+
+.center {
+    text-align: center;
+}
+
+.element-2 {
+    text-align: right;
+    margin-right: 200px;
+}
+
+.download {
+    padding-left: 200px;
+}
+
+.linear-gradient {
+    background: linear-gradient(to top right, #5a98f2, #67c3f3);
+    height: vh;
+}
+
+.card-border-radius {
+    border-radius: 16px !important;
+    border:none;
+}
+
+.services {
+    margin: 30px;
+}
+
+.btn {
+    margin-bottom: 100px;
+    color: #458FF6;
+    background-color: white; 
+}
+
+.previous-next {
+    margin-block-end: 150px;
+    text-align: center;
+}
+
+.card-identity, .card-text {
+    padding-top: 60px;
+    color: white;
+}
+
+.text-card {
+    color: #7D7987;
+    margin: 30px;
+    padding-right: 30px;
+}
+
+.footer {
+    padding-top: 50px;
+    padding-left: 150px;
+    color: white;
+}
+
+
+
